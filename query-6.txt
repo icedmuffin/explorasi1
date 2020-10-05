@@ -1,12 +1,13 @@
 group: Proyek
 mahasiswa = {
-nama, nrp, angkatan, skill
-'vin', 521922, 2019, 'cisco certified'
-'leo', 521701, 2017, 'sofware engineering'
-'ken', 521811, 2018, 'sofware engineering'
-'lia', 521719, 2017, 'manajemen basis data'
-'eno', 521921, 2019, 'website developement'
-'oda', 521749, 2017, 'website developement'
+nama, nrp, angkatan, skill, ipk
+'vin', 521922, 2019, 'cisco certified', 3.8
+'leo', 521701, 2017, 'sofware engineering', 3.4
+'ken', 521811, 2018, 'sofware engineering', 3.7
+'lia', 521719, 2017, 'manajemen basis data', 3.9
+'eno', 521921, 2019, 'website developement', 2.8
+'oda', 521749, 2017, 'website developement', 3.1
+'sen', 521747, 2017, 'cisco certified', 3.4
 }
 dosen = {
 nama, proyek
@@ -15,11 +16,12 @@ nama, proyek
 'bu eva', 'apps'
 'pak dani', 'website'
 }
-rusahaan = {
+sahaan = {
 kodePerusahaan, proyek, skill
 'A', 'database', 'Manajemen basis data'
 'B', 'apps', 'Software engineering'
 'C', 'network security', 'cisco certified'
 'D', 'website', 'website developement'
 }
+
 
