@@ -4,20 +4,20 @@ nama, nrp, angkatan, skill
 'vin', 521922, 2019, 'cisco certified'
 'leo', 521701, 2017, 'sofware engineering'
 'ken', 521811, 2018, 'sofware engineering'
-'lia', 521719, 2017, 'management basis data'
+'lia', 521719, 2017, 'manajemen basis data'
 'eno', 521921, 2019, 'website developement'
 'oda', 521749, 2017, 'website developement'
 }
 dosen = {
-nama, kodePerusahaan, proyek
-'pak adi', 'A', 'database'
-'pak eki', 'C', 'network security'
-'bu eva', 'B', 'apps'
-'pak dani', 'D', 'website'
+nama, proyek
+'pak adi', 'database'
+'pak eki', 'network security'
+'bu eva', 'apps'
+'pak dani', 'website'
 }
-perusahaan = {
+rusahaan = {
 kodePerusahaan, proyek, skill
-'A', 'database', 'Managemen basis data'
+'A', 'database', 'Manajemen basis data'
 'B', 'apps', 'Software engineering'
 'C', 'network security', 'cisco certified'
 'D', 'website', 'website developement'
