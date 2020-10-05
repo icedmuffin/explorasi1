@@ -16,12 +16,10 @@ nama, proyek
 'bu eva', 'apps'
 'pak dani', 'website'
 }
-sahaan = {
+perusahaan = {
 kodePerusahaan, proyek, skill
-'A', 'database', 'Manajemen basis data'
+'A', 'database', 'manajemen basis data'
 'B', 'apps', 'Software engineering'
 'C', 'network security', 'cisco certified'
 'D', 'website', 'website developement'
 }
-
-
